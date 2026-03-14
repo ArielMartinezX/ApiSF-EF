@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiStreetFighter/ApiStreetFighter.csproj" />
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Models/Models.csproj" />
+  <Project Path="Repository/Repository.csproj" />
+</Solution>

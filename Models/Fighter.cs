@@ -1,0 +1,12 @@
+﻿namespace Models
+{
+    public class Fighter
+    {
+        public Guid Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        public int Attack { get; set; }
+        public int Defense { get; set; }
+        public bool IsAlive { get; set; }
+    }
+}
